@@ -9,7 +9,7 @@ public class Maju {
    String apelido = Maju;
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni&hide_progress=true)
 
 <p align="left">
   <a href="#" alt="Gmail">
