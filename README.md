@@ -11,6 +11,8 @@ public class Maju {
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/majutestoni/github-readme-stats)
+
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
