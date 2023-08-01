@@ -1,7 +1,10 @@
 ### Maju Testoni 👾
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="right">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight)
+</div>
 
+<div align="left">
 ```java
 public class Maju {
    String nome = Maria Júlia;
@@ -9,9 +12,10 @@ public class Maju {
    String apelido = Maju;
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight)
 
-<p align="left">
+
+
+<p >
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
@@ -21,3 +25,4 @@ public class Maju {
   <a href="https://www.instagram.com/majutestoni/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
+</div>
