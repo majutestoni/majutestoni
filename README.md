@@ -1,8 +1,8 @@
 ### Maju Testoni 👾
 
-<div align="right">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight)
-</div>
+
 
 <div align="left">
 ```java
