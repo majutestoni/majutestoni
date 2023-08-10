@@ -1,16 +1,5 @@
 ### Maju Testoni 👾
 
-
-
-
-```java
-public class Maju {
-   String nome = Maria Júlia;
-   String sobrenome = Testoni;
-   String apelido = Maju;
-}
-```
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight)
 
 
