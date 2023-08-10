@@ -1,5 +1,7 @@
 ### Maju Testoni 👾
   <p>As vezes frontend, as vezes backend e as vezes apenas mãe do fred🐶</p>
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight)
 
 
