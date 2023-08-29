@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majutestoni&show_icons=true&theme=tokyonight)
+
 
 
 <p align="left">
