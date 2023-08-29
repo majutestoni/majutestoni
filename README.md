@@ -3,10 +3,10 @@
 <p>As vezes frontend, as vezes backend e as vezes apenas mãe do fred🐶</p>
 
 <div style="display: flex; justify-content: space-between;">
-  <div align="left">
+  <div >
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight" />
   </div>
-  <div align="right">
+  <div >
     <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&show_icons=true&theme=tokyonight" />
   </div>
 </div>
