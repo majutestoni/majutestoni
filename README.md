@@ -2,14 +2,16 @@
 
 <p>As vezes frontend, as vezes backend e as vezes apenas mãe do fred🐶</p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div >
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight" />
-  </div>
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&show_icons=true&theme=tokyonight" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&show_icons=true&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 <p >
   <a href = "mailto:majuliatestoni@gmail.com" alt="Gmail">
