@@ -8,8 +8,8 @@
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight" />
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&show_icons=true&theme=tokyonight&cardType=githu" />
-      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=false">    <img  alt="majutestoni's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/majutestoni?cardType=github&theme=tokyonight&preferLogin=false" />  </a>
+       <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&show_icons=true&theme=tokyonight&cardType=github" />
+      <img  alt="majutestoni's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/majutestoni?cardType=github&theme=tokyonight&preferLogin=false" /> 
     </td>
   </tr>
 </table>
