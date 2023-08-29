@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=majutestoni&theme=tokyonight" />
     </td>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&rank_icon=github&show_icons=true&theme=tokyonight" />
+       <img src="https://github-readme-stats.vercel.app/api?username=majutestoni&rank_icon=github&show_icons=true&theme=tokyonight&show=prs_merged_percentage,reviews" />
     </td>
   </tr>
 </table>
